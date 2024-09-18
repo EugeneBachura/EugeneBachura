@@ -42,9 +42,9 @@
 
 ## 📊 GitHub Stats:
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneBachura&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EugeneBachura&show_icons=true)
 
 ---
 
