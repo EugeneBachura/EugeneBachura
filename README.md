@@ -69,13 +69,13 @@
 
 ## 🔗 Projects:
 
-- **[msaplatforma.ru](http://msaplatforma.ru/)** – Developed an APS platform for production planning and management using Laravel, Vue.js, and Quasar
-- **[lazebra.ru](http://lazebra.ru/)** – Created a custom CMS on Laravel, integrated with delivery services via API, including phone-based authentication
+- **[msaplatforma.ru](http://msaplatforma.ru/)** – an APS platform for production planning and management using Laravel, Vue.js, and Quasar
+- **[lazebra.ru](http://lazebra.ru/)** – a custom CMS on Laravel, integrated with delivery services via API, including phone-based authentication
 - **[studiohoefler.si](http://studiohoefler.si/)** – WordPress-based website with original design and client-requested custom functionality
-- **[slikopleskarstvo-habat.si](http://slikopleskarstvo-habat.si/)** – Developed a ModX website with custom API integrations
-- **[yuzh-group.com](http://yuzh-group.com/)** – Built a ModX-based website with unique features
-- **[bsu.by](http://bsu.by/)** – University websites built with 1C-Bitrix and Joomla, with customized CMS for scientific and editorial work
-- **[edufir.bsu.by](http://edufir.bsu.by/)** – Developed an e-learning platform on Moodle for remote education
+- **[slikopleskarstvo-habat.si](http://slikopleskarstvo-habat.si/)** – a ModX website with custom API integrations
+- **[yuzh-group.com](http://yuzh-group.com/)** – a ModX-based website with unique features
+- **[bsu.by](http://bsu.by/)** – university websites built with 1C-Bitrix and Joomla, with customized CMS for scientific and editorial work
+- **[edufir.bsu.by](http://edufir.bsu.by/)** – an e-learning platform on Moodle for remote education
 
 
 
