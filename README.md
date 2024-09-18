@@ -2,12 +2,11 @@
 
 **Full-Stack Developer**
 
----
 
 👋 Hi there! I'm Eugene Bachura, a Full-Stack Developer with 5 years of experience. I specialize in building efficient and secure web applications, with deep knowledge of both front-end and back-end technologies. I've worked in academic environments and international teams, developing my skills in web development, server administration, and database management. I'm passionate about learning new things and constantly improving my craft 👨‍💻
 
 
-## 🛠 Technologies and Tools:
+## 🛠 Skills:
 
 ### **Programming Languages**:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -58,15 +57,15 @@
 ![MVC](https://img.shields.io/badge/MVC-2C3E50?style=for-the-badge&logo=symfony&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneBachura&layout=compact&theme=radical" alt="Most used languages">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneBachura&layout=compact" alt="Most used languages">
 </p>
 
----
+
 
 ## 🔗 Projects:
 
@@ -78,7 +77,7 @@
 - **[bsu.by](http://bsu.by/)** – University websites built with 1C-Bitrix and Joomla, with customized CMS for scientific and editorial work.
 - **[edufir.bsu.by](http://edufir.bsu.by/)** – Developed an e-learning platform on Moodle for remote education.
 
----
+
 
 ## 📫 How to reach me:
 - **Email**: [eugene.bachura@gmail.com](mailto:eugene.bachura@gmail.com)
