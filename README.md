@@ -23,6 +23,8 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Quasar Badge](https://img.shields.io/badge/Quasar-050A14?logo=quasar&logoColor=fff&style=for-the-badge)
+![Livewire Badge](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=fff&style=for-the-badge)
 
 ### **Syntax**:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
