@@ -71,6 +71,15 @@
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
 
+## 🌍 Languages I Know:
+
+| Language          | Proficiency                                         |
+|-------------------|-----------------------------------------------------|
+| **Polish**        | C1 (Advanced)                                       |
+| **English**       | B1 (Intermediate, reading and writing technical docs) |
+| **Russian**       | Native                                              |
+| **Belarusian**    | Native                                              |
+
 
 ## 📊 GitHub Stats:
 
