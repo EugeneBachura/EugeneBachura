@@ -25,11 +25,23 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Quasar Badge](https://img.shields.io/badge/Quasar-050A14?logo=quasar&logoColor=fff&style=for-the-badge)
 ![Livewire Badge](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=fff&style=for-the-badge)
+![ACF](https://img.shields.io/badge/ACF-0284C7?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### **CMS Platforms**:
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-F0A30A?style=for-the-badge&logo=joomla&logoColor=white)
+![ModX](https://img.shields.io/badge/ModX-003B57?style=for-the-badge&logo=modx&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-ff8200?style=for-the-badge&logo=moodle&logoColor=white)
 
 ### **Syntax**:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### **Design Tools**:
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### **Server Administration**:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -43,7 +55,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Xdebug](https://img.shields.io/badge/Xdebug-007ACC?style=for-the-badge&logo=php&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
@@ -72,10 +83,12 @@
 ## 🔗 Projects:
 
 - **[msaplatforma.ru](http://msaplatforma.ru/)** – an APS platform for production planning and management using Laravel, Vue.js, and Quasar
+- **[leaselink.pl](http://leaselink.pl/)** – creation of custom page templates using ACF for WordPress and integration with external APIs
 - **[lazebra.ru](http://lazebra.ru/)** – a custom CMS / CRM on Laravel, integrated with delivery services via API, including phone-based authentication
 - **[studiohoefler.si](http://studiohoefler.si/)** – WordPress-based website with original design and client-requested custom functionality
 - **[slikopleskarstvo-habat.si](http://slikopleskarstvo-habat.si/)** – a ModX website with custom API integrations
 - **[yuzh-group.com](http://yuzh-group.com/)** – a ModX-based website with unique features
+- **[global.bialystok.pl](https://global.bialystok.pl/)** - maintenance and updates of WordPress functionality, including implementing new features
 - **[bsu.by](http://bsu.by/)** – university websites built with 1C-Bitrix and Joomla, with customized CMS for scientific and editorial work
 - **[edufir.bsu.by](http://edufir.bsu.by/)** – an e-learning platform on Moodle for remote education
 
