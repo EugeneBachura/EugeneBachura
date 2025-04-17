@@ -103,7 +103,7 @@
 - **[global.bialystok.pl](https://global.bialystok.pl/)** - maintenance and updates of WordPress functionality, including implementing new features
 - **[bsu.by](http://bsu.by/)** – university websites built with 1C-Bitrix and Joomla, with customized CMS for scientific and editorial work
 - **[edufir.bsu.by](http://edufir.bsu.by/)** – an e-learning platform on Moodle for remote education
-- **Royal Canin promo microsites** – maintenance and updates for [odbierzprezent.royalcanin.pl](https://odbierzprezent.royalcanin.pl/), [adopcja.royalcanin.pl](https://adopcja.royalcanin.pl/), and [kupon40.royalcanin.pl](https://kupon40.royalcanin.pl/)
+- **[Royal Canin promo microsites](https://www.royalcanin.com/pl)** – maintenance and updates for [odbierzprezent.royalcanin.pl](https://odbierzprezent.royalcanin.pl/), [adopcja.royalcanin.pl](https://adopcja.royalcanin.pl/), and [kupon40.royalcanin.pl](https://kupon40.royalcanin.pl/)
 
 
 ## 📫 How to reach me:
