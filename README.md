@@ -91,16 +91,19 @@
 
 ## 🔗 Projects:
 
+- **[POWERCRM](https://www.hauerpower.com/systemy-crm-oprogramowanie-dla-firm)** – custom CRM with flexible modules, built‑in analytics, and easy control of processes and website content  
 - **[msaplatforma.ru](http://msaplatforma.ru/)** – an APS platform for production planning and management using Laravel, Vue.js, and Quasar
 - **[leaselink.pl](http://leaselink.pl/)** – creation of custom page templates using ACF for WordPress and integration with external APIs
+- **[conversion.pl](https://conversion.pl/)** – ongoing development of new features and full website support
 - **[lazebra.ru](http://lazebra.ru/)** – a custom CMS / CRM on Laravel, integrated with delivery services via API, including phone-based authentication
+- **[med.powercrm.pro](https://med.powercrm.pro/)** – *currently in development*: POWERCRM‑based platform that adds medical modules and API integrations  
 - **[studiohoefler.si](http://studiohoefler.si/)** – WordPress-based website with original design and client-requested custom functionality
 - **[slikopleskarstvo-habat.si](http://slikopleskarstvo-habat.si/)** – a ModX website with custom API integrations
 - **[yuzh-group.com](http://yuzh-group.com/)** – a ModX-based website with unique features
 - **[global.bialystok.pl](https://global.bialystok.pl/)** - maintenance and updates of WordPress functionality, including implementing new features
 - **[bsu.by](http://bsu.by/)** – university websites built with 1C-Bitrix and Joomla, with customized CMS for scientific and editorial work
 - **[edufir.bsu.by](http://edufir.bsu.by/)** – an e-learning platform on Moodle for remote education
-
+- **Royal Canin promo microsites** – maintenance and updates for [odbierzprezent.royalcanin.pl](https://odbierzprezent.royalcanin.pl/), [adopcja.royalcanin.pl](https://adopcja.royalcanin.pl/), and [kupon40.royalcanin.pl](https://kupon40.royalcanin.pl/)
 
 
 ## 📫 How to reach me:
