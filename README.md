@@ -108,4 +108,4 @@
 
 ## 📫 How to reach me:
 - **Email**: [eugene.bachura@gmail.com](mailto:eugene.bachura@gmail.com)
-- **LinkedIn**: [Eugene Bachura](https://www.linkedin.com/in/eu-bachura/)
+- **LinkedIn**: [Eugene Bachura](https://www.linkedin.com/in/eugene-bachura/)
