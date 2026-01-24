@@ -3,7 +3,7 @@
 **Full-Stack Developer**
 
 
-👋 Hi there! I'm Eugene Bachura, a Full-Stack Developer with 5 years of experience. I specialize in building efficient and secure web applications, with deep knowledge of both front-end and back-end technologies. I've worked in academic environments and international teams, developing my skills in web development, server administration, and database management. I'm passionate about learning new things and constantly improving my craft 👨‍💻
+👋 Hi there! I'm Eugene Bachura, a Full-Stack Developer with 6 years of experience. I specialize in building efficient and secure web applications, with deep knowledge of both front-end and back-end technologies. I've worked in academic environments and international teams, developing my skills in web development, server administration, and database management. I'm passionate about learning new things and constantly improving my craft 👨‍💻
 
 
 ## 🛠 Skills:
