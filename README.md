@@ -81,14 +81,6 @@
 | **Belarusian**    | Native                                              |
 
 
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneBachura&layout=compact" alt="Most used languages">
-</p>
-
-
-
 ## 🔗 Projects:
 
 - **[POWERCRM](https://www.hauerpower.com/systemy-crm-oprogramowanie-dla-firm)** – custom CRM with flexible modules, built‑in analytics, and easy control of processes and website content
