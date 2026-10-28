@@ -16,6 +16,8 @@ The extension reads the existing page's task navigation and native dialog markup
 
 Search text is stored in the browser's local extension storage on your device. Entries are grouped by Zammad origin, application path and account ID so searches can be restored and separated between accounts. The list of sites where you enable the integration is also stored locally. Site access grants are managed by the browser. Filter choices and unfinished drafts are held in memory while the page is open.
 
+Pending activation requests can be stored locally with the site address, browser tab ID and request time so enabling can finish if the browser's permission prompt closes the toolbar panel. Requests older than five minutes are ignored. Pending requests are removed when handled or canceled, or when saved extension data is cleared.
+
 Data is used only to provide search tabs and the filter builder. The extension's use of information complies with the Chrome Web Store User Data Policy, including its Limited Use requirements.
 
 ## Sharing and network activity
