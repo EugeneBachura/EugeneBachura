@@ -14,7 +14,7 @@ The extension reads the existing page's task navigation and native dialog markup
 
 ## Storage and purpose
 
-Search text is stored in Chrome's local extension storage on your device. Entries are grouped by Zammad origin, application path and account ID so searches can be restored and separated between accounts. Site access grants are managed by Chrome. Filter choices and unfinished drafts are held in memory while the page is open.
+Search text is stored in Chrome's local extension storage on your device. Entries are grouped by Zammad origin, application path and account ID so searches can be restored and separated between accounts. The list of sites where you enable the integration is also stored locally. Site access grants are managed by Chrome. Filter choices and unfinished drafts are held in memory while the page is open.
 
 Data is used only to provide search tabs and the filter builder. The extension's use of information complies with the Chrome Web Store User Data Policy, including its Limited Use requirements.
 
@@ -28,7 +28,7 @@ Running a search uses the Zammad page you already opened. That page communicates
 
 Saved queries remain in your Chrome profile until you close their search tabs, remove saved data through the extension's settings, or uninstall the extension. Signing out hides your searches but does not erase them. Revoking site access through Chrome prevents further page access and does not itself erase previously saved queries.
 
-Open the extension's settings and choose "Disable all sites and remove saved searches" to remove its saved data and revoke its optional site access. This removes the extension's local data. It does not delete tickets, searches or other information held by your Zammad server.
+Choose "Disable on this site" in the toolbar panel to stop the integration on that site while keeping its saved queries. To remove all saved queries, open Settings and choose "Disable all sites and remove saved searches". The extension disables its integration and asks Chrome to revoke optional site access. If Chrome cannot remove that access, the panel explains how to remove it in Chrome settings; the integration remains disabled. These actions do not delete tickets or other information held by your Zammad server.
 
 ## Security
 
